@@ -37,5 +37,5 @@ App publishers and marketers need to make decisions about which category to buil
   
 ## File
 - 'google play store.pbix' - Power BI dashboard file
-- 'google play store project.pdf' - Project/dashboard documentation
+- Project/dashboard documentation -   https://github.com/deepakrajput2622a-dotcom/google-play-store-analysis/blob/main/google%20play%20store%20project.pdf
   
