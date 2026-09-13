@@ -33,4 +33,7 @@ App publishers and marketers need to make decisions about which category to buil
 - Reviews vs Installing (Scatter Plot)
   Plots review volumes against total app installations across logarithmic scales.
 - App Details Table (Data Grid)
-  Provides granular, row-by-row records listing specific app names, categories, star ratings, review counts, install figures, and pricing.   
+  Provides granular, row-by-row records listing specific app names, categories, star ratings, review counts, install figures, and pricing.
+  
+## File PDF demo
+  
