@@ -36,6 +36,6 @@ App publishers and marketers need to make decisions about which category to buil
   Provides granular, row-by-row records listing specific app names, categories, star ratings, review counts, install figures, and pricing.
   
 ## File
-- google play store.pbix - Power BI dashboard file
-- google play store project.pdf - Project/dashboard documentation
+- 'google play store.pbix' - Power BI dashboard file
+- 'google play store project.pdf' - Project/dashboard documentation
   
