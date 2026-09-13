@@ -1,2 +1,2 @@
 # google-play-store-analysis
-Power BI project analyzing Google Play Store apps, installs, ratings, categories, and content ratings.
+Power BI dashboard analyzing 7K+ Google Play Store apps — installs, ratings, and free vs paid trends by category.
