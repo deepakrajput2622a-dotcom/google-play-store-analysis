@@ -21,7 +21,7 @@ App publishers and marketers need to make decisions about which category to buil
 - Engagement Correlation — Installs and reviews move together closely, suggesting organic growth is strongly tied to user engagement (useful for ASO/marketing prioritization).
 - Audience Targeting — ~81% of apps are rated "Everyone," showing the market skews toward broad, general-audience design.
 
-
+## Key KPIs
 - Total Installs by Category (Bar Chart)
   Displays total download counts across different app genres, led by Game (10.7bn) and Family (4.5bn).
 - Free vs Paid Split (Donut Chart)
