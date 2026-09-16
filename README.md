@@ -35,7 +35,7 @@ App publishers and marketers need to make decisions about which category to buil
 - App Details Table (Data Grid)
   Provides granular, row-by-row records listing specific app names, categories, star ratings, review counts, install figures, and pricing.
   
-## File
+## File and Overview Dashboard
 - [Power BI dashboard file](https://github.com/deepakrajput2622a-dotcom/google-play-store-analysis/blob/main/google%20play%20store.pbit)
-- ![Project/dashboard documentation](https://github.com/deepakrajput2622a-dotcom/google-play-store-analysis/blob/main/google%20play%20store%20project.pdf)
+- ![Project/dashboard Overview](https://github.com/deepakrajput2622a-dotcom/google-play-store-analysis/blob/main/google%20play%20store%20project.pdf)
   
